@@ -1,0 +1,29 @@
+Métricas alcançadas pelos modelos prontos:
+
+MaxAbsScaler, RandomForest:
+
+Variância explicada
+0.75255
+Erro absoluto de média
+231.84
+Erro de percentual absoluto de média
+60.916
+Erro mediano absoluto
+167.92
+Erro absoluto de média normalizado
+0.068029
+Erro mediano absoluto normalizado
+0.049272
+Erro de quadrado de média de raiz normalizado
+0.096762
+Erro de log de quadrado de média raiz normalizado
+0.079848
+Pontuação R2
+0.75199
+Erro de raiz do valor quadrático médio
+329.76
+Erro de log de raiz do valor quadrático médio
+0.56182
+Correlação de Spearman
+0.90317
+
